@@ -14,7 +14,7 @@ Thus, the term *interval* regularly refers both to the distance between two pitc
 
 # Chromatic intervals #
 
-The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
+The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps (*semitones*) between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
 
 ![Chromatic steps from C4 to E4.][c4e4]
 
